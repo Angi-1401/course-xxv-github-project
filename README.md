@@ -28,6 +28,7 @@ Tras cargar todos los archivos, este repositorio tendrá la estructura base de u
 | Daniel Miranda     | styles/main.css            |
 | Daniel Querales    | styles/header.css          |
 | Elvis García       | styles/footer.css          |
+| Ely Rojas          | products.html              |
 | Gabriel Vallejo    | styles/responsive.css      |
 | Germán Parra       | scripts/main.js            |
 | Gregory Uztariz    | scripts/form-validation.js |
